@@ -13,4 +13,9 @@ php artisan db:seed
 
 使用技術
 MySQL ８.0
-laravel 
+laravel 8.8
+PHP 8.4
+
+URL
+開発環境 
+phpMyAdmin http://localhost:8080/index.php?route=/
